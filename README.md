@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey!
+
+I'm a fresh developer looking to enter the workforce soon. I've spent about 3 years at Sheridan College learning as much as I could about various aspects of development, IT, administration and more.
+
+Because of the breadth of knowledge I gained from my time at Sheridan, I believe I could comfortably work as a Full-Stack Dev.
+
+I'm currently learning about Cloud Computing (Azure/AWS) to further modernise the web applications that I build.
+
+You can either reach me by my email @ farrukh.kh98@gmail.com or my linkedin @ linkedin.com/in/khaitov/
 
 <!--
 **khaitov-prog/khaitov-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
